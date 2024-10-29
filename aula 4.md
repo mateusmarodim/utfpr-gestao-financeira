@@ -1,0 +1,38 @@
+- se uma empresa tem 2 ou mais socios, nenhum sócio tem o direito de pegar de volta o capital investido
+- não procure sócios entre amigos de churrasco/bar, mais suscetível a dar conflito de interesses
+- definir bem a função de cada um no negócio
+	- governança empresarial
+- lucro real - IR sobre resultado
+- simples - IR sobre lucro
+
+- liquidez estatica não da um panorama da empresa como um todo
+- é necessário métodos para chegar aos mesmos percentuais de maneira 'integrada'
+- ROE - return on equity
+	- ROI (return on investment) * risco
+		- MARGEM * GIRO do ativo
+			- MARGEM = LL / RECEITA x 100 (percentual)
+			- GIRO = RECEITA / ATIVO T (índice) 
+				- ex jacto - a cada 1 real em ativo, o quanto q ela vendeu
+				- componente de rentabilidade do próprio ativo e pro bolso do sócio
+		- RISCO = PASSIVO T ou ATIVO T/ PAT LIQ
+- ^
+-  |
+- 1914 -> dupont
+- lucro liquido do exercicio - é o q vai pro borso dos sócios
+- deveria olhar o demonstrativo operacional
+	- RECEITA BRUTA
+	- - IMPOSTOS
+	- - DEVOLUÇÕES (empresa emite nota de entrada para itens devolvidos para evitar cobrança de imposto pelo item)
+	- = RECEITA LIQUIDA
+	- - CUSTOS VARIAVEIS (ex: custo da camiseta)
+	- - DESPESAS VARIAVEIS (ex: comissão do vendedor, taxa de entrega)
+	- = MARGEM DE CONTRIBUIÇÃO (PREÇO SOBRE PRODUTOS/SERVIÇOS MENOS TUDO Q É VARIÁVEL) 
+		- tem q ser positiva
+		- o preço tem q cobrir os variaveis e sobrar
+	- - CUSTOS FIXOS (ex: alugueis, boletos, )
+	- - DESPESAS FIXAS
+	- = EBITDA
+	- - JUROS
+	- - DEPRECIAÇÕES
+	- - IMPOSTO DE RENDA
+	- = LUCRO LÍQUIDO
